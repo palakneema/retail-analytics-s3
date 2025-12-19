@@ -17,8 +17,6 @@ venv/
 .env
 
 
-# Reports (optional if large)
-reports/
 
 # OS files
 .DS_Store
