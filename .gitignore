@@ -1,0 +1,27 @@
+    
+---
+
+# ✅ .gitignore (for this project)
+
+Create / update **.gitignore** in the **root folder** and paste this:
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+myenv/
+venv/
+.env
+
+# Data files (recommended)
+data/raw/
+data/processed/
+
+# Reports (optional if large)
+reports/
+
+# OS files
+.DS_Store
