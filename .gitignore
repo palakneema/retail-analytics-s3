@@ -16,9 +16,6 @@ myenv/
 venv/
 .env
 
-# Data files (recommended)
-data/raw/
-data/processed/
 
 # Reports (optional if large)
 reports/
